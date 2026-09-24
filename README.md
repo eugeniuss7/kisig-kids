@@ -1,9 +1,9 @@
 # 🌿 Kisig Kids — Official Website
 
-> **Learning by doing. Moving by design.**  
-> Official web repository for Kisig Kids, an Inclusive Learning Center located in San Juan City, Metro Manila.
->
-> 📌 About Kisig Kids
+**Learning by doing. Moving by design.**  
+Official web repository for Kisig Kids, an Inclusive Learning Center located in San Juan City, Metro Manila.
+
+📌 About Kisig Kids
 Kisig Kids is an inclusive learning center providing play-based, neuro-affirming early childhood and special needs education (SNED). Grounded in Reggio- and Waldorf-inspired philosophies, Kisig Kids integrates sensory processing, cognitive milestones, reading, writing, and math into real-world action—incorporating movement, nature, and practical life skills while remaining aligned with the MATATAG curriculum framework.
 
 🚀 Website Objectives
