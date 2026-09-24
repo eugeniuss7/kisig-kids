@@ -50,10 +50,10 @@ To run this website locally on your computer:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/kisig-kids-website.git
+git clone https://github.com/your-username/kisig-kids.git
 
 # 2. Navigate to the project folder
-cd kisig-kids-website
+cd kisig-kids
 
 # 3. Install dependencies (if using Node/React/Next.js)
 npm install
