@@ -1,4 +1,4 @@
-# 💪 Kisig Kids — Official Website
+# 🌿 Kisig Kids — Official Website
 
 > **Learning by doing. Moving by design.**  
 > Official repository for the Kisig Kids Learning Center web portal.
