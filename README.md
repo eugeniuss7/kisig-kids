@@ -66,6 +66,32 @@ Open `http://localhost:3000` in your browser to view the site.
 
 ---
 
+## 🗄️ Backend Setup (Django + PostgreSQL)
+
+The API in `backend/` uses PostgreSQL. You need a local PostgreSQL server running first.
+
+```bash
+# 1. Create the database (adjust the user if yours isn't "postgres")
+createdb -U postgres kisig_kids
+
+# 2. Set up a virtual environment and install dependencies
+cd kisig-kids/backend
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# 3. Add your database credentials
+cp .env.example .env   # then edit .env
+
+# 4. Create the tables and start the API
+python manage.py migrate
+python manage.py runserver
+```
+
+The API runs at `http://localhost:8000`.
+
+---
+
 ## 📍 Contact & Center Location
 
 * **Address:** 17 Alfonso XIII St., Brgy. Pasadeña, San Juan City, Metro Manila, Philippines
