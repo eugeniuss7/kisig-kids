@@ -50,19 +50,19 @@ To run this website locally on your computer:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/kisig-kids.git
+git clone https://github.com/eugeniuss7/kisig-kids.git
 
-# 2. Navigate to the project folder
-cd kisig-kids
+# 2. Navigate to the frontend app
+cd kisig-kids/frontend
 
-# 3. Install dependencies (if using Node/React/Next.js)
+# 3. Install dependencies
 npm install
 
 # 4. Start the local development server
 npm run dev
 ```
 
-Open `http://localhost:3000` in your browser to view the site.
+Open `http://localhost:5173` (Vite's default port) in your browser to view the site.
 
 ---
 
